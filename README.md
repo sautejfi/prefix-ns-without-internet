@@ -1,9 +1,9 @@
 # prefix-ns
 
 This npm module gives easy access to the prefixes and namespaces of [prefix.cc](prefix.cc).
-Upon installation of this module the latest dump is downloaded from prefix.cc and stored locally.
-The dump is only updated when the module is re-installed.
-A default dump (`data.json`) is available if the download of the dump fails.
+
+Warning : The dump is never updated. It uses always the default dump (`data.json`) 
+There is no internet download for each installation
 
 ## Usage
 ```$JavaScript

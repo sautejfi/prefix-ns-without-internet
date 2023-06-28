@@ -2,7 +2,7 @@
  * Created by pheyvaer on 18.04.17.
  */
 
-let http = require('http');
+/*let http = require('http');
 let fs = require('fs');
 
 http.get('http://prefix.cc/context', (res) => {
@@ -22,4 +22,4 @@ http.get('http://prefix.cc/context', (res) => {
       }
     });
   }
-});
+});*/

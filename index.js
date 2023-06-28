@@ -31,6 +31,7 @@ function getPrefixViaNamespace(namespace) {
   }
 }
 
+
 module.exports = {
   getPrefixes: getPrefixes,
   getNamespaceViaPrefix: getNamespaceViaPrefix,
