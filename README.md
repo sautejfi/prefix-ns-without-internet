@@ -1,9 +1,11 @@
-# prefix-ns
+# prefix-ns-without-internet
+
+Copy of https://github.com/pheyvaer/prefix-ns without http://prefix.cc/context request.
 
 This npm module gives easy access to the prefixes and namespaces of [prefix.cc](prefix.cc).
 
 Warning : The dump is never updated. It uses always the default dump (`data.json`) 
-There is no internet download for each installation
+There is no internet download of http://prefix.cc/context at each installation
 
 ## Usage
 ```$JavaScript
